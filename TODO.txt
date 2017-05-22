@@ -1,0 +1,21 @@
+- Menu de navigation / recherche
+
+- Design :
+    - Patient / Medecin
+    - Agenda
+    - Services
+    - Admin
+    - Infos perso
+
+- PHP :
+    + Refactoring 
+    + Séparer les codes (virer les copier-coller) 
+    + Vérifier toutes les données entrées 
+    - Suppression users titulaire d'un service 
+    = Ajout/modification/suppression d'un service
+    = Moins de services -> moins de medecins
+
+- JavaScript : 
+    + Recherche sur Patient (recherche par nom - registre), Medecin (recherche par nom - matricule), Agenda (recherche par date - patient), Service (recherche service - medecin), Admin(recherche traité - non traité - catégorie)
+    - Animations
+    + Messages d'erreur, confirmation ...
